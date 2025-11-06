@@ -1,0 +1,17 @@
+// This is a generated file.
+//
+// This file contains:
+//  * Flutter engine version
+//  * Dart SDK version
+//  * Build tools version
+//  * App framework directory
+//
+// The values here should not be edited manually.
+// To regenerate this file, run `flutter pub get` in the project root.
+
+FlutterEngineVersion=3.16.0
+DartSdkVersion=3.2.0
+BuildToolsVersion=28.0.3
+FLUTTER_ROOT=/Users/youruser/flutter
+FLUTTER_APPLICATION_PATH=/Users/youruser/project
+COCOAPODS_PARALLEL_CODE_SIGN=true
